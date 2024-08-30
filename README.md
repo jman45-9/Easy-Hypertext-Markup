@@ -22,4 +22,5 @@ The file is complied to HTML. The previous line would read the following in HTML
 * Set postion of an element using 'at' keyword
   * given a point '(x,y)'
   * given a keyword (center, top, right, left, bottom) 
-* set atributues(color) using 'with <attribute>' 
+* set element attributes(color) using 'with <attribute>'
+* set page attributes(color) using 'set <attribute>'
